@@ -9,5 +9,5 @@ puts formatter % [
   "That you could type upo right.",
   "But it didn't sing.",
   "So I said goodnight."
-
+]
 
